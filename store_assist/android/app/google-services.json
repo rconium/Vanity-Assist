@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90982538639",
+    "firebase_url": "https://vain-srrgbr.firebaseio.com",
+    "project_id": "vain-srrgbr",
+    "storage_bucket": "vain-srrgbr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90982538639:android:df983bf516684ef6127ffa",
+        "android_client_info": {
+          "package_name": "com.example.store_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90982538639-09v42ifhf60jikpmpbhkr7c84ud1bmr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.store_assist",
+            "certificate_hash": "356a11024227fc99ee9e8209592f00651eafc9d1"
+          }
+        },
+        {
+          "client_id": "90982538639-gff9kl8f5gnbdhnfimo9o0fdm6p485ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXV3exMJ89yr62VHCUO2JANIxsBkB2Vmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90982538639-gff9kl8f5gnbdhnfimo9o0fdm6p485ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
